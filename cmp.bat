@@ -1,0 +1,1 @@
+java -classpath ..\..\common\dist\hr-common.jar;..\..\dbdl\build\libs\dbdl.jar;c:\mysqljar\*;..\..\proxybl\build\libs\proxybl.jar;c:\itext7\*;..\..\netcommon\build\libs\netcommon.jar;..\..\netclient\build\libs\netclient.jar;..\build\libs\pl.jar;. DesignationModelTestCase
